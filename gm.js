@@ -6,6 +6,7 @@ var lastTick = 0;
 function dm_gm() 
 {
     if (!World.GetServerString())
+        lastTick = 0;
         return;
 
     if (!Entity.IsAlive(Entity.GetLocalPlayer())) 
