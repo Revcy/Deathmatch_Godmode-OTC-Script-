@@ -1,2 +1,6 @@
 # Deathmatch_Godmode-OTC-Script-
-Simple script for onetap v3 crack
+Working when you don't fire
+
+When game ended restart script for working
+
+Credits: matthewthecoddy & pers0na2 (for help ;) )
